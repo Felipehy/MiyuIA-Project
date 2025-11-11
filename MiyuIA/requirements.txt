@@ -1,0 +1,12 @@
+ollama
+langchain
+langchain-ollama
+langchain-core
+langchain-community
+datetime
+queue
+numpy
+torch
+time
+faster_whisper
+speech_recognition
